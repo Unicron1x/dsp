@@ -1,8 +1,8 @@
 def Cohens_D(grp_1, grp_2):
 
-​    grp_1_mean = grp_1.mean()
-​    grp_2_mean = grp_2.mean()
-​    mean_diff = grp_1_mean - grp_2_mean
+     grp_1_mean = grp_1.mean()
+     grp_2_mean = grp_2.mean()
+     mean_diff = grp_1_mean - grp_2_mean
 
 
     grp_1_var = grp_1.var()
