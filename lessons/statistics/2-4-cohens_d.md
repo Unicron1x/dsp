@@ -1,8 +1,6 @@
 [Think Stats Chapter 2 Exercise 4](http://greenteapress.com/thinkstats2/html/thinkstats2003.html#toc24) (Cohen's d)
 
 >> def Cohens_D(grp_1, grp_2):
-    
-
     grp_1_mean = grp_1.mean()
     grp_2_mean = grp_2.mean()
     mean_diff = grp_1_mean - grp_2_mean
